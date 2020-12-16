@@ -1,4 +1,19 @@
 {
 	"loginToken":"my-discord-token",
-	"prefix": "!schelly"
+	"botAdmin":"bot-admin-user-id",
+	"prefix": "!schelly",
+	"status": "custom-status-currently-not-working",
+	"reactions":{
+		"accept": "✅",
+		"late": "🕓",
+		"wait": "⬜",
+		"reject": "🟥",
+		"remove": "🆓",
+		"delete": "⏏️",
+		"renew" : "🔂",
+		"notify": "🔔",
+		"notifyPM": "✉️",
+		"noticeup": "👍",
+		"noticedown": "👎"
+	},
 }
